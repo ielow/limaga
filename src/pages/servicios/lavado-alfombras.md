@@ -1,8 +1,8 @@
 ---
-path: '/services/lavado-alfombras'
+path: '/servicios/lavado-alfombras'
 title: "Lavado de alfombras, tapetes y tapicería"
 date: 2018-11-28T15:14:54+10:00
-image: "/services/default.png"
+image: "/servicios/default.png"
 featured: true
 draft: false
 ---

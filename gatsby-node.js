@@ -9,7 +9,7 @@ exports.createPages = ({ graphql, actions }) => {
         `
           query {
             services: allMarkdownRemark(
-              filter: { fileAbsolutePath: { regex: "/services/" } }
+              filter: { fileAbsolutePath: { regex: "/servicios/" } }
               sort: { fields: [frontmatter___date], order: DESC }
             ) {
               edges {
@@ -25,7 +25,7 @@ exports.createPages = ({ graphql, actions }) => {
               }
             }
             team: allMarkdownRemark(
-              filter: { fileAbsolutePath: { regex: "/team/" } }
+              filter: { fileAbsolutePath: { regex: "/covid/" } }
               sort: { fields: [frontmatter___date], order: DESC }
             ) {
               edges {
@@ -70,7 +70,7 @@ exports.createPages = ({ graphql, actions }) => {
           });
         });
         result.data.team.edges.forEach(({ node }) => {
-          const component = path.resolve('src/templates/team.js');
+          const component = path.resolve('src/templates/covid.js');
           createPage({
             path: node.frontmatter.path,
             component,

@@ -1,12 +1,14 @@
 ---
-path: '/services/limpieza-maquinaria'
-title: "Limpieza de maquinaria y equipo industrial"
-date: 2018-11-28T15:14:54+10:00
-image: "/services/default.png"
+path: '/servicios/limpieza-oficinas'
+title: 'Limpieza de Oficinas'
+date: 2019-10-11
+image: '/servicios/default.png'
 featured: true
 draft: false
 ---
-Nuestros servicios ayudan a optimizar los recursos económicos  de su empresa, ya que a través de ellos se obtienen importantes beneficios en la reducción de los costos de operación, porque  al hacernos cargo de la supervisión y ejecución de los servicios de mantenimiento y limpieza de sus instalaciones, se disminuye la carga de trabajo a sus colaboradores de áreas administrativas.
+
+El personal que colabora en nuestro equipo de trabajo es incorporado a través de una minuciosa selección, ya que para nosotros es muy importante contar con la confianza  de nuestros clientes y darles la tranquilidad de que el personal es confiable.
+Toda persona que ingresa a laborar en sus instalaciones, estará debidamente registrada ante el seguro social,  contará con uniformes  y portará su gafete de identificación.
 
 ## Ne verba patulosque numen vix libet
 

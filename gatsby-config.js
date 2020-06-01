@@ -11,11 +11,11 @@ module.exports = {
     menuLinks: [
       {
         name: 'Servicios',
-        link: '/services',
+        link: '/servicios',
       },
       {
-        name: 'Equipo',
-        link: '/team',
+        name: 'covid-19',
+        link: '/covid',
       },
       {
         name: 'Testimoniales',
