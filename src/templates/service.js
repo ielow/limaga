@@ -9,7 +9,6 @@ const Service = ({ data }) => {
   return (
     <Layout bodyClass="page-service">
       <SEO title={title} />
-      <div className="strip strip-white strip-diagonal">
         <div className="container pt-4 pt-md-10">
           <div className="row justify-content-start">
             <div className="col-12 col-md-8">
@@ -20,7 +19,6 @@ const Service = ({ data }) => {
             </div>
           </div>
         </div>
-      </div>
     </Layout>
   );
 };

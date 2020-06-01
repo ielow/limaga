@@ -14,8 +14,8 @@ module.exports = {
         link: '/services',
       },
       {
-        name: 'Equipo',
-        link: '/team',
+        name: 'covid-19',
+        link: '/covid',
       },
       {
         name: 'Testimoniales',
