@@ -1,8 +1,8 @@
 ---
-path: '/services/limpieza-de-casas'
+path: '/servicios/limpieza-de-casas'
 title: 'Limpieza y mantenimiento de casas para renta o venta'
 date: 2019-10-10
-image: '/services/default.png'
+image: '/servicios/default.png'
 featured: true
 draft: false
 ---
