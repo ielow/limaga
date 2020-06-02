@@ -14,8 +14,9 @@ const Home = (props) => {
       <Helmet>
         <meta
           name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          content="Servicios Lima: Servicios profesionales de limpieza y mantenimiento industrial y comercial.  Especializados en crear espacios seguros libres de virus y bacterias preparados para cumplir con todas las normas de la nueva normalidad."
         />
+        <meta name="google-site-verification" content="Y6_aXG1jbKZ4m99pVE2TW3GA3zttLYb_ghZO_xtF2QU" />
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
