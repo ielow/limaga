@@ -48,7 +48,7 @@ const Home = (props) => {
             </div>
           ))}
           <div className="col-12 text-center">
-            <Link className="button button-primary mt-2" to="/services">
+            <Link className="button button-primary mt-2" to="/servicios">
               Ver todos
             </Link>
           </div>
