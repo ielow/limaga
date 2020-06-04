@@ -61,5 +61,11 @@ module.exports = {
         head: false,
       },
     },
+    {
+      resolve: 'gatsby-plugin-drift',
+      options: {
+        appId: 'udim8wmse5z6',
+      },
+    }
   ],
 };
