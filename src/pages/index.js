@@ -22,7 +22,7 @@ const Home = (props) => {
         <div className="container">
           <h1>Servicios de <br />Limpieza & Mantenimiento</h1>
           <p>
-            Servicios especializados en procesos industriales.
+          Somos una empresa 100% Mexicana  dedicada a brindar  servicios de mantenimiento y limpieza profesional  en oficinas, edificios e instalaciones industriales.
           </p>
         </div>
       </div>
@@ -41,7 +41,7 @@ const Home = (props) => {
               <div className="card service service-teaser">
                 <div className="card-content">
                   <h2>
-                    <Link to={edge.node.frontmatter.path}>{edge.node.frontmatter.title}</Link>
+                    <Link to={'/servicios'}>{edge.node.frontmatter.title}</Link>
                   </h2>
                   <p>{edge.node.excerpt}</p>
                 </div>
