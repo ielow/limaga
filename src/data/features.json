@@ -1,17 +1,32 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "/features/noun_branding_1885335.svg"
+    "title": "Supervición Detallada",
+    "description": "Le proporcionaremos un informe detallado que le permitirá saber qué se hizo y qué puede ser necesario reparar.",
+    "image": "/features/icons_supervision.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "/features/noun_The Process_1885341.svg"
+    "title": "Flexibilidad",
+    "description": "Adaptamos nuestros servicios, de acuerdo a las necesidades de su negocio, limpieza diaria, semanal o mensual disponible para adaptarnos a su presupuesto.",
+    "image": "/features/icons_flexible.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "/features/noun_3d modeling_1885342.svg"
+    "title": "Personal Confiable",
+    "description": "Nuestro equipo se incorpora a través de una minuciosa selección, para nosotros lo más importante es contar personal honesto y confiable.",
+    "image": "/features/icons_personal.svg"
+  },
+  {
+    "title": "Seguridad",
+    "description": "Nuestro equipo al ingresar en sus instalaciones, estará debidamente registrada ante el seguro social,  contará con uniformes, equipo de seguridad y portará su gafete de identificación.",
+    "image": "/features/icons_safety.svg"
+  },
+  {
+    "title": "Ecológicos",
+    "description": " Seguimos estandares para reducir el impacto al medio ambiente, utilizando productos ecológicos y optimizando y reciclando materiales.",
+    "image": "/features/icons_ecologic.svg"
+  },
+  {
+    "title": "Más que limpieza",
+    "description": "Contamos con equipo y personal capacitado para brindar mantenimiento especializado en maquinaria industrial, y equipos de metalizado.",
+    "image": "/features/icons_mantenience.svg"
   }
 ]
