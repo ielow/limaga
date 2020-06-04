@@ -15,9 +15,11 @@
   }
   .card-content {
     flex: 1;
+    background: rgba(white,0.9);
     h2 {
       font-family: $font-family-heading;
       font-size: 1.6rem;
+      color: $primary;
     }
     p {
     }

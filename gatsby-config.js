@@ -17,10 +17,10 @@ module.exports = {
         name: 'covid-19',
         link: '/covid',
       },
-      {
-        name: 'Testimoniales',
-        link: '/testimonials',
-      },
+      // {
+      //   name: 'Testimoniales',
+      //   link: '/testimonials',
+      // },
       {
         name: 'Contacto',
         link: '/contact',
