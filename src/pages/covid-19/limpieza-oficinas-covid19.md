@@ -1,5 +1,5 @@
 ---
-path: '/covid/limpieza-desinfeccion'
+path: '/covid-19/limpieza-desinfeccion'
 title: 'Limpieza y Desinfección de Oficinas CDMX'
 date: 2018-11-19T10:47:58+10:00
 draft: false

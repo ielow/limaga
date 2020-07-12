@@ -5,8 +5,8 @@ module.exports = {
     title: 'Lima',
     description: 'Servicios de Limpieza y mantenimiento.',
     contact: {
-      phone: '55 3173 5414',
-      email: 'lima.profesionales@gmail.com',
+      phone: '5531735414',
+      email: 'hola@servicioslima.com',
     },
     menuLinks: [
       {
@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: 'covid-19',
-        link: '/covid',
+        link: '/covid-19',
       },
       // {
       //   name: 'Testimoniales',
@@ -66,6 +66,14 @@ module.exports = {
       options: {
         appId: 'udim8wmse5z6',
       },
+    },
+    {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options:{
+        id: 'GTM-PPPN5T4',
+        includeInDevelopment: false,
+        
+      }
     }
   ],
 };
