@@ -20,9 +20,14 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>Servicios de <br />Limpieza & Mantenimiento</h1>
+          <h1>
+          <span>confiable.</span>
+          <span>seguro.</span>
+          <span>garantizado.</span>
+          <strong>muy limpio.</strong>
+          </h1>
           <p>
-          Somos una empresa 100% Mexicana  dedicada a brindar  servicios de mantenimiento y limpieza profesional  en oficinas, edificios e instalaciones industriales.
+          Servicios profesionales de limpieza y mantenimiento en oficinas, edificios e instalaciones industriales.
           </p>
         </div>
       </div>

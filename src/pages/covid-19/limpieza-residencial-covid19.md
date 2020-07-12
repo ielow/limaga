@@ -1,5 +1,5 @@
 ---
-path: '/covid/limpieza-desinfeccion-covid-casas'
+path: '/covid-19/limpieza-desinfeccion-covid-casas'
 title: 'Limpieza y Desinfección Residencial'
 date: 2018-11-19T10:47:58+10:00
 draft: false
