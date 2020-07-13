@@ -1,6 +1,7 @@
 .logo {
   display: none;
   margin-bottom: 5px;
+  margin-left: -15px;
   @include media-breakpoint-up(sm) {
     display: block;
     width: 60px;
