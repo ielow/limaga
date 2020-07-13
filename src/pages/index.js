@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
+import Banner from '../components/Banner';
 
 const Home = (props) => {
   const markdown = props.data.allMarkdownRemark.edges;
@@ -18,6 +19,7 @@ const Home = (props) => {
         />
         <meta name="google-site-verification" content="Y6_aXG1jbKZ4m99pVE2TW3GA3zttLYb_ghZO_xtF2QU" />
       </Helmet>
+      <Banner />
       <div className="intro pb-4">
         <div className="container">
           <h1>

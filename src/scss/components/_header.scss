@@ -5,8 +5,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
-  @include media-breakpoint-only(sm){
+  box-shadow: 0 3px 15px rgba(50, 50, 93, 0.5);
+  position: relative;
+  z-index: 3;
+  @media (max-width: 640px){
     padding: 5px 0;
   }
   .container {
